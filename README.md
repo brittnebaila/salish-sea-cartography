@@ -2,7 +2,7 @@
 
 A vintage-inspired cartographic study of Washington's Salish Sea islands, created by **Brittne Valdivia** for **30 Day Map Challenge 2026 — Day 3: Polygons**.
 
-![Islands of the Salish Sea: colored island polygons with shaded terrain, a map key, and a north arrow](images/salish-sea-map.png)
+![Islands of the Salish Sea: colored island polygons with shaded terrain, a map key, and a north arrow](salish-sea-map.png)
 
 ## About the map
 
